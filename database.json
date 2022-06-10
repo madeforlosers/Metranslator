@@ -1,5 +1,5 @@
 {
-  "_version": "5.0",
+  "_version": "6.0",
   "_name": "Metroz Official Specification",
 
   "phrases": [
@@ -3395,7 +3395,7 @@
     },
     {
       "en": " does not ",
-      "mt": " bur api’rt ",
+      "mt": " bur apiÂ’rt ",
       "fact": null
     },
     {
@@ -3405,7 +3405,7 @@
     },
     {
       "en": " did not ",
-      "mt": " jit api’rt ",
+      "mt": " jit apiÂ’rt ",
       "fact": null
     },
     {
@@ -3415,7 +3415,7 @@
     },
     {
       "en": " do not ",
-      "mt": " api‘rt ",
+      "mt": " apiÂ‘rt ",
       "fact": null
     },
     {
