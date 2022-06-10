@@ -2,6 +2,9 @@
 
 A translation API that can translate English to Metroz and Metroz to English
 
+## Requirements:
+* node 17 or above
+
 ## Usage
 ```plaintext
 node index.js <mode> <target language> <message>
