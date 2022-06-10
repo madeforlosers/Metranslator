@@ -1,0 +1,3459 @@
+{
+  "_version": "5.0",
+  "_name": "Metroz Official Specification",
+
+  "phrases": [
+    {
+      "en": " ending ",
+      "mt": " bi nedu ",
+      "fact": null
+    },
+    {
+      "en": " ends ",
+      "mt": " di nedu ",
+      "fact": null
+    },
+    {
+      "en": " ended ",
+      "mt": " jit nedu ",
+      "fact": null
+    },
+    {
+      "en": " end ",
+      "mt": " nedu ",
+      "fact": null
+    },
+    {
+      "en": " noticing ",
+      "mt": " bi noto ",
+      "fact": null
+    },
+    {
+      "en": " notices ",
+      "mt": " di noto ",
+      "fact": null
+    },
+    {
+      "en": " noticed ",
+      "mt": " jit noto ",
+      "fact": null
+    },
+    {
+      "en": " notice ",
+      "mt": " noto ",
+      "fact": null
+    },
+    {
+      "en": " about ",
+      "mt": " dudasid ",
+      "fact": null
+    },
+    {
+      "en": " until ",
+      "mt": " utilin ",
+      "fact": null
+    },
+    {
+      "en": " violenced ",
+      "mt": " jit volobo ",
+      "fact": null
+    },
+    {
+      "en": " violence ",
+      "mt": " volobo ",
+      "fact": null
+    },
+    {
+      "en": " problems ",
+      "mt": " di para ",
+      "fact": null
+    },
+    {
+      "en": " problem ",
+      "mt": " para ",
+      "fact": null
+    },
+    {
+      "en": " contact  ",
+      "mt": " sentoxi ",
+      "fact": null
+    },
+    {
+      "en": " mornings ",
+      "mt": " di booshi ",
+      "fact": null
+    },
+    {
+      "en": " morning ",
+      "mt": " booshi ",
+      "fact": null
+    },
+    {
+      "en": " many ",
+      "mt": " tyovil ",
+      "fact": null
+    },
+    {
+      "en": " earned ",
+      "mt": " modishuv ",
+      "fact": null
+    },
+    {
+      "en": " too ",
+      "mt": " gizes ",
+      "fact": null
+    },
+    {
+      "en": " universally  ",
+      "mt": " minur ",
+      "fact": null
+    },
+    {
+      "en": " projecting ",
+      "mt": " bi gyrij ",
+      "fact": null
+    },
+    {
+      "en": " projects ",
+      "mt": " di gyrij ",
+      "fact": null
+    },
+    {
+      "en": " projected ",
+      "mt": " jit gyrij ",
+      "fact": null
+    },
+    {
+      "en": " project ",
+      "mt": " gyrij ",
+      "fact": null
+    },
+    {
+      "en": " multiples ",
+      "mt": " di udit ",
+      "fact": null
+    },
+    {
+      "en": " multiple ",
+      "mt": " udit ",
+      "fact": null
+    },
+    {
+      "en": " threw ",
+      "mt": " jit hidod ",
+      "fact": null
+    },
+    {
+      "en": " throwing ",
+      "mt": " bi hidod ",
+      "fact": null
+    },
+    {
+      "en": " throw ",
+      "mt": " hidod ",
+      "fact": null
+    },
+    {
+      "en": " web site ",
+      "mt": " wobot ",
+      "fact": null
+    },
+    {
+      "en": " tasking ",
+      "mt": " bi zeper ",
+      "fact": null
+    },
+    {
+      "en": " tasks ",
+      "mt": " di zeper ",
+      "fact": null
+    },
+    {
+      "en": " tasked ",
+      "mt": " jit zeper ",
+      "fact": null
+    },
+    {
+      "en": " task ",
+      "mt": " zeper ",
+      "fact": null
+    },
+    {
+      "en": " or ",
+      "mt": " gur ",
+      "fact": null
+    },
+    {
+      "en": " modes ",
+      "mt": " di murd ",
+      "fact": null
+    },
+    {
+      "en": " mode ",
+      "mt": " murd ",
+      "fact": null
+    },
+    {
+      "en": " expos ",
+      "mt": " di expu ",
+      "fact": null
+    },
+    {
+      "en": " expo ",
+      "mt": " expu ",
+      "fact": null
+    },
+    {
+      "en": " at ",
+      "mt": " dut ",
+      "fact": null
+    },
+    {
+      "en": " versions ",
+      "mt": " di vlego ",
+      "fact": null
+    },
+    {
+      "en": " version ",
+      "mt": " vlego ",
+      "fact": null
+    },
+    {
+      "en": " nexts ",
+      "mt": " di byjud ",
+      "fact": null
+    },
+    {
+      "en": " next ",
+      "mt": " byjud ",
+      "fact": null
+    },
+    {
+      "en": " patterns ",
+      "mt": " di sulivod ",
+      "fact": null
+    },
+    {
+      "en": " pattern ",
+      "mt": " sulivod ",
+      "fact": null
+    },
+    {
+      "en": " repeating ",
+      "mt": " bi livod ",
+      "fact": null
+    },
+    {
+      "en": " repeats ",
+      "mt": " di livod ",
+      "fact": null
+    },
+    {
+      "en": " repeated ",
+      "mt": " jit livod ",
+      "fact": null
+    },
+    {
+      "en": " repeat ",
+      "mt": " livod ",
+      "fact": null
+    },
+    {
+      "en": " how ",
+      "mt": " zosiv ",
+      "fact": null
+    },
+    {
+      "en": " pleasing ",
+      "mt": " bi ziviz ",
+      "fact": null
+    },
+    {
+      "en": " pleases ",
+      "mt": " di ziviz ",
+      "fact": null
+    },
+    {
+      "en": " pleased ",
+      "mt": " jit ziviz ",
+      "fact": null
+    },
+    {
+      "en": " please ",
+      "mt": " ziviz ",
+      "fact": null
+    },
+    {
+      "en": " missing ",
+      "mt": " bi yuls ",
+      "fact": null
+    },
+    {
+      "en": " missed ",
+      "mt": " jit yuls ",
+      "fact": null
+    },
+    {
+      "en": " miss ",
+      "mt": " yuls ",
+      "fact": null
+    },
+    {
+      "en": " hoping ",
+      "mt": " bi yurit ",
+      "fact": null
+    },
+    {
+      "en": " hopes ",
+      "mt": " di yurit ",
+      "fact": null
+    },
+    {
+      "en": " hoped ",
+      "mt": " jit yurit ",
+      "fact": null
+    },
+    {
+      "en": " hope ",
+      "mt": " yurit ",
+      "fact": null
+    },
+    {
+      "en": " information ",
+      "mt": " yogav ",
+      "fact": null
+    },
+    {
+      "en": " info ",
+      "mt": " yogav ",
+      "fact": null
+    },
+    {
+      "en": " them  ",
+      "mt": " yekuva ",
+      "fact": null
+    },
+    {
+      "en": " audios ",
+      "mt": " di vos ",
+      "fact": null
+    },
+    {
+      "en": " audio ",
+      "mt": " vos ",
+      "fact": null
+    },
+    {
+      "en": " new ",
+      "mt": " vold ",
+      "fact": null
+    },
+    {
+      "en": " and ",
+      "mt": " tuval ",
+      "fact": null
+    },
+    {
+      "en": " not ",
+      "mt": " vert ",
+      "fact": null
+    },
+    {
+      "en": " no ",
+      "mt": " vert ",
+      "fact": null
+    },
+    {
+      "en": " father ",
+      "mt": " turtu ",
+      "fact": null
+    },
+    {
+      "en": " dad ",
+      "mt": " turtu ",
+      "fact": null
+    },
+    {
+      "en": " light  ",
+      "mt": " turato ",
+      "fact": null
+    },
+    {
+      "en": " everywhere ",
+      "mt": " turidol ",
+      "fact": null
+    },
+    {
+      "en": " whilst ",
+      "mt": " tulist ",
+      "fact": null
+    },
+    {
+      "en": " while ",
+      "mt": " tulist ",
+      "fact": null
+    },
+    {
+      "en": " anything ",
+      "mt": " belolit ",
+      "fact": null
+    },
+    {
+      "en": " browns ",
+      "mt": " di tuliq ",
+      "fact": null
+    },
+    {
+      "en": " brown ",
+      "mt": " tuliq ",
+      "fact": null
+    },
+    {
+      "en": " everythings ",
+      "mt": " di trurali ",
+      "fact": null
+    },
+    {
+      "en": " everything ",
+      "mt": " trurali ",
+      "fact": null
+    },
+    {
+      "en": " everyones ",
+      "mt": " di trurabode ",
+      "fact": null
+    },
+    {
+      "en": " everyone ",
+      "mt": " trurabode ",
+      "fact": null
+    },
+    {
+      "en": " any ",
+      "mt": " baleli ",
+      "fact": null
+    },
+    {
+      "en": " every ",
+      "mt": " trura ",
+      "fact": null
+    },
+    {
+      "en": " only ",
+      "mt": " touvi ",
+      "fact": null
+    },
+    {
+      "en": " nights ",
+      "mt": " di trez ",
+      "fact": null
+    },
+    {
+      "en": " night ",
+      "mt": " trez ",
+      "fact": null
+    },
+    {
+      "en": " filing ",
+      "mt": " bi tovab ",
+      "fact": null
+    },
+    {
+      "en": " files ",
+      "mt": " di tovab ",
+      "fact": null
+    },
+    {
+      "en": " filed ",
+      "mt": " jit tovab ",
+      "fact": null
+    },
+    {
+      "en": " file ",
+      "mt": " tovab ",
+      "fact": null
+    },
+    {
+      "en": " still  ",
+      "mt": " torusi ",
+      "fact": null
+    },
+    {
+      "en": " others ",
+      "mt": " di togop ",
+      "fact": null
+    },
+    {
+      "en": " other ",
+      "mt": " togop ",
+      "fact": null
+    },
+    {
+      "en": " who ",
+      "mt": " tivos ",
+      "fact": null
+    },
+    {
+      "en": " they  ",
+      "mt": " tiyuva ",
+      "fact": null
+    },
+    {
+      "en": " humanity ",
+      "mt": " tiven ",
+      "fact": null
+    },
+    {
+      "en": " why ",
+      "mt": " tips ",
+      "fact": null
+    },
+    {
+      "en": " booking ",
+      "mt": " bi tins ",
+      "fact": null
+    },
+    {
+      "en": " books ",
+      "mt": " di tins ",
+      "fact": null
+    },
+    {
+      "en": " booked ",
+      "mt": " jit tins ",
+      "fact": null
+    },
+    {
+      "en": " book ",
+      "mt": " tins ",
+      "fact": null
+    },
+    {
+      "en": " wanting ",
+      "mt": " bi tilon ",
+      "fact": null
+    },
+    {
+      "en": " wants ",
+      "mt": " di tilon ",
+      "fact": null
+    },
+    {
+      "en": " wanted ",
+      "mt": " jit tilon ",
+      "fact": null
+    },
+    {
+      "en": " want ",
+      "mt": " tilon ",
+      "fact": null
+    },
+    {
+      "en": " willed ",
+      "mt": " jit nahag ",
+      "fact": null
+    },
+    {
+      "en": " willing ",
+      "mt": " bi nahag ",
+      "fact": null
+    },
+    {
+      "en": " will ",
+      "mt": " nahag ",
+      "fact": null
+    },
+    {
+      "en": " needing ",
+      "mt": " bi tilonu ",
+      "fact": null
+    },
+    {
+      "en": " needs ",
+      "mt": " di tilonu ",
+      "fact": null
+    },
+    {
+      "en": " need ",
+      "mt": " tilonu ",
+      "fact": null
+    },
+    {
+      "en": " of ",
+      "mt": " tigev ",
+      "fact": null
+    },
+    {
+      "en": " titling ",
+      "mt": " bi tif ",
+      "fact": null
+    },
+    {
+      "en": " titles ",
+      "mt": " di tif ",
+      "fact": null
+    },
+    {
+      "en": " titled ",
+      "mt": " jit tif ",
+      "fact": null
+    },
+    {
+      "en": " title ",
+      "mt": " tif ",
+      "fact": null
+    },
+    {
+      "en": " without ",
+      "mt": " belthavo ",
+      "fact": null
+    },
+    {
+      "en": " with ",
+      "mt": " thavo ",
+      "fact": null
+    },
+    {
+      "en": " if  ",
+      "mt": " testrul ",
+      "fact": null
+    },
+    {
+      "en": " maybe ",
+      "mt": " tert ",
+      "fact": null
+    },
+    {
+      "en": " lessons ",
+      "mt": " di sulloth ",
+      "fact": null
+    },
+    {
+      "en": " lesson ",
+      "mt": " sulloth ",
+      "fact": null
+    },
+    {
+      "en": " recording ",
+      "mt": " bi sou ",
+      "fact": null
+    },
+    {
+      "en": " videos ",
+      "mt": " di sou ",
+      "fact": null
+    },
+    {
+      "en": " video ",
+      "mt": " sou ",
+      "fact": null
+    },
+    {
+      "en": " tiny ",
+      "mt": " solm ",
+      "fact": null
+    },
+    {
+      "en": " small ",
+      "mt": " solm ",
+      "fact": null
+    },
+    {
+      "en": " wording ",
+      "mt": " bi sobas ",
+      "fact": null
+    },
+    {
+      "en": " words ",
+      "mt": " di sobas ",
+      "fact": null
+    },
+    {
+      "en": " worded ",
+      "mt": " jit sobas ",
+      "fact": null
+    },
+    {
+      "en": " word ",
+      "mt": " sobas ",
+      "fact": null
+    },
+    {
+      "en": " schooling ",
+      "mt": " bi saip ",
+      "fact": null
+    },
+    {
+      "en": " schools ",
+      "mt": " di saip ",
+      "fact": null
+    },
+    {
+      "en": " schooled ",
+      "mt": " jit saip ",
+      "fact": null
+    },
+    {
+      "en": " school ",
+      "mt": " saip ",
+      "fact": null
+    },
+    {
+      "en": " red ",
+      "mt": " ridil ",
+      "fact": null
+    },
+    {
+      "en": " mother ",
+      "mt": " retur ",
+      "fact": null
+    },
+    {
+      "en": " mom ",
+      "mt": " retur ",
+      "fact": null
+    },
+    {
+      "en": " currently ",
+      "mt": " puyiv ",
+      "fact": null
+    },
+    {
+      "en": " current ",
+      "mt": " puyiv ",
+      "fact": null
+    },
+    {
+      "en": " up ",
+      "mt": " puye ",
+      "fact": null
+    },
+    {
+      "en": " languages ",
+      "mt": " di propova ",
+      "fact": null
+    },
+    {
+      "en": " language ",
+      "mt": " propova ",
+      "fact": null
+    },
+    {
+      "en": " purple ",
+      "mt": " propil ",
+      "fact": null
+    },
+    {
+      "en": " dark  ",
+      "mt": " pinito ",
+      "fact": null
+    },
+    {
+      "en": " footing ",
+      "mt": " bi pebo ",
+      "fact": null
+    },
+    {
+      "en": " foots ",
+      "mt": " di pebo ",
+      "fact": null
+    },
+    {
+      "en": " footed ",
+      "mt": " jit pebo ",
+      "fact": null
+    },
+    {
+      "en": " foot ",
+      "mt": " pebo ",
+      "fact": null
+    },
+    {
+      "en": " pink ",
+      "mt": " penko ",
+      "fact": null
+    },
+    {
+      "en": " are ",
+      "mt": " paz ",
+      "fact": null
+    },
+    {
+      "en": " oxygen ",
+      "mt": " oxoy ",
+      "fact": null
+    },
+    {
+      "en": " air ",
+      "mt": " oxoy ",
+      "fact": null
+    },
+    {
+      "en": " orange ",
+      "mt": " ogit ",
+      "fact": null
+    },
+    {
+      "en": " blacking ",
+      "mt": " bi oblik ",
+      "fact": null
+    },
+    {
+      "en": " blacks ",
+      "mt": " di oblik ",
+      "fact": null
+    },
+    {
+      "en": " blacked ",
+      "mt": " jit oblik ",
+      "fact": null
+    },
+    {
+      "en": " black ",
+      "mt": " oblik ",
+      "fact": null
+    },
+    {
+      "en": " downing ",
+      "mt": " bi odow ",
+      "fact": null
+    },
+    {
+      "en": " downs ",
+      "mt": " di odow ",
+      "fact": null
+    },
+    {
+      "en": " downed ",
+      "mt": " jit odow ",
+      "fact": null
+    },
+    {
+      "en": " down ",
+      "mt": " odow ",
+      "fact": null
+    },
+    {
+      "en": " so ",
+      "mt": " nosiv ",
+      "fact": null
+    },
+    {
+      "en": " um ",
+      "mt": " nos ",
+      "fact": null
+    },
+    {
+      "en": "  like ",
+      "mt": " nos ",
+      "fact": null
+    },
+    {
+      "en": " finishing ",
+      "mt": " bi nedis ",
+      "fact": null
+    },
+    {
+      "en": " finishers ",
+      "mt": " di nedis ",
+      "fact": null
+    },
+    {
+      "en": " finished ",
+      "mt": " jit nedis ",
+      "fact": null
+    },
+    {
+      "en": " finish ",
+      "mt": " nedis ",
+      "fact": null
+    },
+    {
+      "en": " is ",
+      "mt": " mus ",
+      "fact": null
+    },
+    {
+      "en": "  ",
+      "mt": " mosika ",
+      "fact": null
+    },
+    {
+      "en": " license ",
+      "mt": " mosika ",
+      "fact": null
+    },
+    {
+      "en": " more ",
+      "mt": " morap ",
+      "fact": null
+    },
+    {
+      "en": " paper ",
+      "mt": " luvab ",
+      "fact": null
+    },
+    {
+      "en": " document ",
+      "mt": " luvab ",
+      "fact": null
+    },
+    {
+      "en": " life ",
+      "mt": " lufuri ",
+      "fact": null
+    },
+    {
+      "en": " repeating ",
+      "mt": " bi losi ",
+      "fact": null
+    },
+    {
+      "en": " repeats ",
+      "mt": " di losi ",
+      "fact": null
+    },
+    {
+      "en": " repeated ",
+      "mt": " jit losi ",
+      "fact": null
+    },
+    {
+      "en": " repeat ",
+      "mt": " losi ",
+      "fact": null
+    },
+    {
+      "en": " to ",
+      "mt": " liva ",
+      "fact": null
+    },
+    {
+      "en": " again ",
+      "mt": " kiz ",
+      "fact": null
+    },
+    {
+      "en": " as ",
+      "mt": " kipet ",
+      "fact": null
+    },
+    {
+      "en": " on ",
+      "mt": " jupis ",
+      "fact": null
+    },
+    {
+      "en": " what ",
+      "mt": " jovis ",
+      "fact": null
+    },
+    {
+      "en": " offing ",
+      "mt": " bi jogis ",
+      "fact": null
+    },
+    {
+      "en": " offs ",
+      "mt": " di jogis ",
+      "fact": null
+    },
+    {
+      "en": " offed ",
+      "mt": " jit jogis ",
+      "fact": null
+    },
+    {
+      "en": " off ",
+      "mt": " jogis ",
+      "fact": null
+    },
+    {
+      "en": " when ",
+      "mt": " jiqu ",
+      "fact": null
+    },
+    {
+      "en": " a  ",
+      "mt": " hujiv ",
+      "fact": null
+    },
+    {
+      "en": " because ",
+      "mt": " hupoy ",
+      "fact": null
+    },
+    {
+      "en": " objecting ",
+      "mt": " bi hoval ",
+      "fact": null
+    },
+    {
+      "en": " objects ",
+      "mt": " di hoval ",
+      "fact": null
+    },
+    {
+      "en": " objected ",
+      "mt": " jit hoval ",
+      "fact": null
+    },
+    {
+      "en": " object ",
+      "mt": " hoval ",
+      "fact": null
+    },
+    {
+      "en": " objectives ",
+      "mt": " di hofel ",
+      "fact": null
+    },
+    {
+      "en": " objective ",
+      "mt": " hofel ",
+      "fact": null
+    },
+    {
+      "en": " backing ",
+      "mt": " bi hof ",
+      "fact": null
+    },
+    {
+      "en": " backs ",
+      "mt": " di hof ",
+      "fact": null
+    },
+    {
+      "en": " backed ",
+      "mt": " jit hof ",
+      "fact": null
+    },
+    {
+      "en": " back ",
+      "mt": " hof ",
+      "fact": null
+    },
+    {
+      "en": " rules ",
+      "mt": " hitiva ",
+      "fact": null
+    },
+    {
+      "en": " graying ",
+      "mt": " bi griya ",
+      "fact": null
+    },
+    {
+      "en": " grays ",
+      "mt": " di griya ",
+      "fact": null
+    },
+    {
+      "en": " grayed ",
+      "mt": " jit griya ",
+      "fact": null
+    },
+    {
+      "en": " gray ",
+      "mt": " griya ",
+      "fact": null
+    },
+    {
+      "en": " greens ",
+      "mt": " di griun ",
+      "fact": null
+    },
+    {
+      "en": " green ",
+      "mt": " griun ",
+      "fact": null
+    },
+    {
+      "en": " house ",
+      "mt": " grits ",
+      "fact": null
+    },
+    {
+      "en": " home ",
+      "mt": " grits ",
+      "fact": null
+    },
+    {
+      "en": " day ",
+      "mt": " gret ",
+      "fact": null
+    },
+    {
+      "en": " olding ",
+      "mt": " bi goy ",
+      "fact": null
+    },
+    {
+      "en": " olds ",
+      "mt": " di goy ",
+      "fact": null
+    },
+    {
+      "en": " old ",
+      "mt": " goy ",
+      "fact": null
+    },
+    {
+      "en": " wont ",
+      "mt": " gohog ",
+      "fact": null
+    },
+    {
+      "en": " something ",
+      "mt": " gobival ",
+      "fact": null
+    },
+    {
+      "en": " some ",
+      "mt": " gobiv ",
+      "fact": null
+    },
+    {
+      "en": " right ",
+      "mt": " girit ",
+      "fact": null
+    },
+    {
+      "en": " would ",
+      "mt": " gihopo ",
+      "fact": null
+    },
+    {
+      "en": " timing ",
+      "mt": " bi frip ",
+      "fact": null
+    },
+    {
+      "en": " times ",
+      "mt": " di frip ",
+      "fact": null
+    },
+    {
+      "en": " timed ",
+      "mt": " jit frip ",
+      "fact": null
+    },
+    {
+      "en": " time ",
+      "mt": " frip ",
+      "fact": null
+    },
+    {
+      "en": " shoes ",
+      "mt": " fout ",
+      "fact": null
+    },
+    {
+      "en": " contacts  ",
+      "mt": " fousho ",
+      "fact": null
+    },
+    {
+      "en": " glasses ",
+      "mt": " fousei ",
+      "fact": null
+    },
+    {
+      "en": " socks ",
+      "mt": " fouliv ",
+      "fact": null
+    },
+    {
+      "en": " headwear ",
+      "mt": " foudis ",
+      "fact": null
+    },
+    {
+      "en": " jacket ",
+      "mt": " foudabu ",
+      "fact": null
+    },
+    {
+      "en": " hat ",
+      "mt": " foudis ",
+      "fact": null
+    },
+    {
+      "en": " clothings ",
+      "mt": " di foud ",
+      "fact": null
+    },
+    {
+      "en": " clothing ",
+      "mt": " foud ",
+      "fact": null
+    },
+    {
+      "en": " braces ",
+      "mt": " foubre ",
+      "fact": null
+    },
+    {
+      "en": " agreeing ",
+      "mt": " bi forte ",
+      "fact": null
+    },
+    {
+      "en": " agrees ",
+      "mt": " di forte ",
+      "fact": null
+    },
+    {
+      "en": " shirt ",
+      "mt": " foudab ",
+      "fact": null
+    },
+    {
+      "en": " agreed ",
+      "mt": " jit forte ",
+      "fact": null
+    },
+    {
+      "en": " agree ",
+      "mt": " forte ",
+      "fact": null
+    },
+    {
+      "en": " by  ",
+      "mt": " fotin ",
+      "fact": null
+    },
+    {
+      "en": " okay  ",
+      "mt": " fondov ",
+      "fact": null
+    },
+    {
+      "en": " human ",
+      "mt": " filev ",
+      "fact": null
+    },
+    {
+      "en": " that ",
+      "mt": " fod ",
+      "fact": null
+    },
+    {
+      "en": " this ",
+      "mt": " fod ",
+      "fact": null
+    },
+    {
+      "en": " clocking ",
+      "mt": " bi fisu ",
+      "fact": null
+    },
+    {
+      "en": " clocked ",
+      "mt": " jit fisu ",
+      "fact": null
+    },
+    {
+      "en": " clocks ",
+      "mt": " di fisu ",
+      "fact": null
+    },
+    {
+      "en": " clock ",
+      "mt": " fisu ",
+      "fact": null
+    },
+    {
+      "en": " GEORGEing ",
+      "mt": " bi filadogudiladospondilaforocoudorellebosorigilonostofaquonistronomoudistilatitirilisitotutabarapadis ",
+      "fact": null
+    },
+    {
+      "en": " GEORGEs ",
+      "mt": " di filadogudiladospondilaforocoudorellebosorigilonostofaquonistronomoudistilatitirilisitotutabarapadis ",
+      "fact": null
+    },
+    {
+      "en": " GEORGEed ",
+      "mt": " jit filadogudiladospondilaforocoudorellebosorigilonostofaquonistronomoudistilatitirilisitotutabarapadis ",
+      "fact": null
+    },
+    {
+      "en": " GEORGE ",
+      "mt": " filadogudiladospondilaforocoudorellebosorigilonostofaquonistronomoudistilatitirilisitotutabarapadis ",
+      "fact": null
+    },
+    {
+      "en": " yes ",
+      "mt": " fert ",
+      "fact": null
+    },
+    {
+      "en": " am ",
+      "mt": " faz ",
+      "fact": null
+    },
+    {
+      "en": " for ",
+      "mt": " fane ",
+      "fact": null
+    },
+    {
+      "en": " character  ",
+      "mt": " falo ",
+      "fact": null
+    },
+    {
+      "en": " lefting ",
+      "mt": " bi efel ",
+      "fact": null
+    },
+    {
+      "en": " lefts ",
+      "mt": " di efel ",
+      "fact": null
+    },
+    {
+      "en": " lefted ",
+      "mt": " jit efel ",
+      "fact": null
+    },
+    {
+      "en": " left ",
+      "mt": " efel ",
+      "fact": null
+    },
+    {
+      "en": " fronting ",
+      "mt": " bi dof ",
+      "fact": null
+    },
+    {
+      "en": " fronts ",
+      "mt": " di dof ",
+      "fact": null
+    },
+    {
+      "en": " fronted ",
+      "mt": " jit dof ",
+      "fact": null
+    },
+    {
+      "en": " front ",
+      "mt": " dof ",
+      "fact": null
+    },
+    {
+      "en": " sentence  ",
+      "mt": " davok ",
+      "fact": null
+    },
+    {
+      "en": " pants ",
+      "mt": " foudev ",
+      "fact": null
+    },
+    {
+      "en": " texted ",
+      "mt": " jit cubi ",
+      "fact": null
+    },
+    {
+      "en": " texts ",
+      "mt": " di cubi ",
+      "fact": null
+    },
+    {
+      "en": " out ",
+      "mt": " cup ",
+      "fact": null
+    },
+    {
+      "en": " the ",
+      "mt": " covos ",
+      "fact": null
+    },
+    {
+      "en": " text ",
+      "mt": " cubi ",
+      "fact": null
+    },
+    {
+      "en": " into ",
+      "mt": " copliva ",
+      "fact": null
+    },
+    {
+      "en": " there ",
+      "mt": " covan ",
+      "fact": null
+    },
+    {
+      "en": " in ",
+      "mt": " cop ",
+      "fact": null
+    },
+    {
+      "en": " numbered ",
+      "mt": " jit cof ",
+      "fact": null
+    },
+    {
+      "en": " number ",
+      "mt": " cof ",
+      "fact": null
+    },
+    {
+      "en": " numbers ",
+      "mt": " di cof ",
+      "fact": null
+    },
+    {
+      "en": " lemons ",
+      "mt": " di citrada ",
+      "fact": null
+    },
+    {
+      "en": " lemon ",
+      "mt": " citrada ",
+      "fact": null
+    },
+    {
+      "en": " betweens ",
+      "mt": " di cap ",
+      "fact": null
+    },
+    {
+      "en": " betweened ",
+      "mt": " jit cap ",
+      "fact": null
+    },
+    {
+      "en": " between ",
+      "mt": " cap ",
+      "fact": null
+    },
+    {
+      "en": " teething ",
+      "mt": " bi calobre ",
+      "fact": null
+    },
+    {
+      "en": " teeth ",
+      "mt": " di calobre ",
+      "fact": null
+    },
+    {
+      "en": " teethed ",
+      "mt": " jit calobre ",
+      "fact": null
+    },
+    {
+      "en": " tooth ",
+      "mt": " calobre ",
+      "fact": null
+    },
+    {
+      "en": " blues ",
+      "mt": " di bou ",
+      "fact": null
+    },
+    {
+      "en": " blue ",
+      "mt": " bou ",
+      "fact": null
+    },
+    {
+      "en": "  body ",
+      "mt": " bode ",
+      "fact": null
+    },
+    {
+      "en": " like ",
+      "mt": " botos ",
+      "fact": null
+    },
+    {
+      "en": " love ",
+      "mt": " botos ",
+      "fact": null
+    },
+    {
+      "en": " love ",
+      "mt": " bosiz ",
+      "fact": null
+    },
+    {
+      "en": " like ",
+      "mt": " bosiz ",
+      "fact": null
+    },
+    {
+      "en": " landing ",
+      "mt": " bi bohul ",
+      "fact": null
+    },
+    {
+      "en": " lands ",
+      "mt": " di bohul ",
+      "fact": null
+    },
+    {
+      "en": " land ",
+      "mt": " bohul ",
+      "fact": null
+    },
+    {
+      "en": " landed ",
+      "mt": " jit bohul ",
+      "fact": null
+    },
+    {
+      "en": " hands ",
+      "mt": " di bohod ",
+      "fact": null
+    },
+    {
+      "en": " large ",
+      "mt": " bogol ",
+      "fact": null
+    },
+    {
+      "en": " handing ",
+      "mt": " bi bohod ",
+      "fact": null
+    },
+    {
+      "en": " handed ",
+      "mt": " jit bohod ",
+      "fact": null
+    },
+    {
+      "en": " big ",
+      "mt": " bogol ",
+      "fact": null
+    },
+    {
+      "en": " start ",
+      "mt": " begij ",
+      "fact": null
+    },
+    {
+      "en": " assignments ",
+      "mt": " di ayes ",
+      "fact": null
+    },
+    {
+      "en": " assignment ",
+      "mt": " ayes ",
+      "fact": null
+    },
+    {
+      "en": " most ",
+      "mt": " avrak ",
+      "fact": null
+    },
+    {
+      "en": " but ",
+      "mt": " avol ",
+      "fact": null
+    },
+    {
+      "en": " Modil  ",
+      "mt": " apouf ",
+      "fact": null
+    },
+    {
+      "en": " money  ",
+      "mt": " abrafu ",
+      "fact": null
+    },
+    {
+      "en": " incorrecting ",
+      "mt": " bi incolef ",
+      "fact": null
+    },
+    {
+      "en": " incorrects ",
+      "mt": " di incolef ",
+      "fact": null
+    },
+    {
+      "en": " incorrect ",
+      "mt": " incolef ",
+      "fact": null
+    },
+    {
+      "en": " wronging ",
+      "mt": " bi incolef ",
+      "fact": null
+    },
+    {
+      "en": " wrongs ",
+      "mt": " di incolef ",
+      "fact": null
+    },
+    {
+      "en": " wronged ",
+      "mt": " jit incolef ",
+      "fact": null
+    },
+    {
+      "en": " wrong ",
+      "mt": " incolef ",
+      "fact": null
+    },
+    {
+      "en": " rights ",
+      "mt": " di alcolef ",
+      "fact": null
+    },
+    {
+      "en": " right ",
+      "mt": " alcolef ",
+      "fact": null
+    },
+    {
+      "en": " correcting ",
+      "mt": " bi alcolef ",
+      "fact": null
+    },
+    {
+      "en": " corrects ",
+      "mt": " di alcolef ",
+      "fact": null
+    },
+    {
+      "en": " corrected ",
+      "mt": " jit alcolef ",
+      "fact": null
+    },
+    {
+      "en": " correct ",
+      "mt": " alcolef ",
+      "fact": null
+    },
+    {
+      "en": " nices ",
+      "mt": " di abson ",
+      "fact": null
+    },
+    {
+      "en": " nice ",
+      "mt": " abson ",
+      "fact": null
+    },
+    {
+      "en": " furries ",
+      "mt": " di antheshov ",
+      "fact": null
+    },
+    {
+      "en": " furry ",
+      "mt": " antheshov ",
+      "fact": null
+    },
+    {
+      "en": " hated ",
+      "mt": " jifuxi ",
+      "fact": null
+    },
+    {
+      "en": " sleepy ",
+      "mt": " siutr ",
+      "fact": null
+    },
+    {
+      "en": " lazy ",
+      "mt": " piutr ",
+      "fact": null
+    },
+    {
+      "en": " dead ",
+      "mt": " donakii ",
+      "fact": null
+    },
+    {
+      "en": " alives ",
+      "mt": " di anabo ",
+      "fact": null
+    },
+    {
+      "en": " alive ",
+      "mt": " anabo ",
+      "fact": null
+    },
+    {
+      "en": " arts ",
+      "mt": " di dorow ",
+      "fact": null
+    },
+    {
+      "en": " art ",
+      "mt": " dorow ",
+      "fact": null
+    },
+    {
+      "en": " closing ",
+      "mt": " bi dopoyd ",
+      "fact": null
+    },
+    {
+      "en": " hot ",
+      "mt": " cobryn ",
+      "fact": null
+    },
+    {
+      "en": " closed ",
+      "mt": " jit dopoyd ",
+      "fact": null
+    },
+    {
+      "en": " closes ",
+      "mt": " di dopoyd ",
+      "fact": null
+    },
+    {
+      "en": " close ",
+      "mt": " dopoyd ",
+      "fact": null
+    },
+    {
+      "en": " nearing ",
+      "mt": " bi cafrig ",
+      "fact": null
+    },
+    {
+      "en": " nears ",
+      "mt": " di cafrig ",
+      "fact": null
+    },
+    {
+      "en": " neared ",
+      "mt": " jit cafrig ",
+      "fact": null
+    },
+    {
+      "en": " near ",
+      "mt": " cafrig ",
+      "fact": null
+    },
+    {
+      "en": " readying ",
+      "mt": " bi grifer ",
+      "fact": null
+    },
+    {
+      "en": " readied ",
+      "mt": " jit grifer ",
+      "fact": null
+    },
+    {
+      "en": " ready ",
+      "mt": " grifer ",
+      "fact": null
+    },
+    {
+      "en": " annoying ",
+      "mt": " biruvo ",
+      "fact": null
+    },
+    {
+      "en": " silent ",
+      "mt": " salient ",
+      "fact": null
+    },
+    {
+      "en": " loud ",
+      "mt": " biruvo ",
+      "fact": null
+    },
+    {
+      "en": " limits ",
+      "mt": " di smola ",
+      "fact": null
+    },
+    {
+      "en": " limiting ",
+      "mt": " bi smola ",
+      "fact": null
+    },
+    {
+      "en": " limited ",
+      "mt": " jit smola ",
+      "fact": null
+    },
+    {
+      "en": " limit ",
+      "mt": " smola ",
+      "fact": null
+    },
+    {
+      "en": " happy ",
+      "mt": " akado ",
+      "fact": null
+    },
+    {
+      "en": " sad ",
+      "mt": " okodi ",
+      "fact": null
+    },
+    {
+      "en": " scorching ",
+      "mt": " calinada ",
+      "fact": null
+    },
+    {
+      "en": " hot ",
+      "mt": " calin ",
+      "fact": null
+    },
+    {
+      "en": " cold ",
+      "mt": " frozo ",
+      "fact": null
+    },
+    {
+      "en": " cool ",
+      "mt": " frozo ",
+      "fact": null
+    },
+    {
+      "en": " idiots ",
+      "mt": " di puverv ",
+      "fact": null
+    },
+    {
+      "en": " idiot ",
+      "mt": " puverv ",
+      "fact": null
+    },
+    {
+      "en": " dumbs ",
+      "mt": " di puverv ",
+      "fact": null
+    },
+    {
+      "en": " stupid ",
+      "mt": " puverv ",
+      "fact": null
+    },
+    {
+      "en": " prettying ",
+      "mt": " bi kirutu ",
+      "fact": null
+    },
+    {
+      "en": " pretties ",
+      "mt": " di kirutu ",
+      "fact": null
+    },
+    {
+      "en": " pretty ",
+      "mt": " kirutu ",
+      "fact": null
+    },
+    {
+      "en": " dumb ",
+      "mt": " puverv ",
+      "fact": null
+    },
+    {
+      "en": " weirded ",
+      "mt": " jit topobi ",
+      "fact": null
+    },
+    {
+      "en": " weird ",
+      "mt": " topobi ",
+      "fact": null
+    },
+    {
+      "en": " funs ",
+      "mt": " di fiviv ",
+      "fact": null
+    },
+    {
+      "en": " okay ",
+      "mt": " folov ",
+      "fact": null
+    },
+    {
+      "en": " fun ",
+      "mt": " fiviv ",
+      "fact": null
+    },
+    {
+      "en": " cooling ",
+      "mt": " bi disiv ",
+      "fact": null
+    },
+    {
+      "en": " cools ",
+      "mt": " di disiv ",
+      "fact": null
+    },
+    {
+      "en": " cooled ",
+      "mt": " jit disiv ",
+      "fact": null
+    },
+    {
+      "en": " cool ",
+      "mt": " disiv ",
+      "fact": null
+    },
+    {
+      "en": " bads ",
+      "mt": " di polv ",
+      "fact": null
+    },
+    {
+      "en": " bad ",
+      "mt": " polv ",
+      "fact": null
+    },
+    {
+      "en": " greats ",
+      "mt": " di dova ",
+      "fact": null
+    },
+    {
+      "en": " great ",
+      "mt": " dova ",
+      "fact": null
+    },
+    {
+      "en": " students ",
+      "mt": " di sujalo ",
+      "fact": null
+    },
+    {
+      "en": " student ",
+      "mt": " sujalo ",
+      "fact": null
+    },
+    {
+      "en": " goods ",
+      "mt": " di dova ",
+      "fact": null
+    },
+    {
+      "en": " good ",
+      "mt": " dova ",
+      "fact": null
+    },
+    {
+      "en": " boyfriends ",
+      "mt": " di levrewtiw ",
+      "fact": null
+    },
+    {
+      "en": " boyfriend ",
+      "mt": " levrewtiw ",
+      "fact": null
+    },
+    {
+      "en": " girlfriends ",
+      "mt": " di levrewt ",
+      "fact": null
+    },
+    {
+      "en": " girlfriend ",
+      "mt": " levrewt ",
+      "fact": null
+    },
+    {
+      "en": " amounting ",
+      "mt": " bi amolofi ",
+      "fact": null
+    },
+    {
+      "en": " amounts ",
+      "mt": " di amolofi ",
+      "fact": null
+    },
+    {
+      "en": " amounted ",
+      "mt": " jit amolofi ",
+      "fact": null
+    },
+    {
+      "en": " amount ",
+      "mt": " amolofi ",
+      "fact": null
+    },
+    {
+      "en": " logging ",
+      "mt": " bi writidon ",
+      "fact": null
+    },
+    {
+      "en": " logs ",
+      "mt": " di writidon ",
+      "fact": null
+    },
+    {
+      "en": " logged ",
+      "mt": " jit writidon ",
+      "fact": null
+    },
+    {
+      "en": " log ",
+      "mt": " writidon ",
+      "fact": null
+    },
+    {
+      "en": " recording ",
+      "mt": " bi writidon ",
+      "fact": null
+    },
+    {
+      "en": " records ",
+      "mt": " di writidon ",
+      "fact": null
+    },
+    {
+      "en": " recorded ",
+      "mt": " jit writidon ",
+      "fact": null
+    },
+    {
+      "en": " record ",
+      "mt": " writidon ",
+      "fact": null
+    },
+    {
+      "en": " bee ",
+      "mt": " tawsil ",
+      "fact": null
+    },
+    {
+      "en": " fast ",
+      "mt": " kuker ",
+      "fact": null
+    },
+    {
+      "en": " confused ",
+      "mt": " mutybel ",
+      "fact": null
+    },
+    {
+      "en": " explosions ",
+      "mt": " di exolsh ",
+      "fact": null
+    },
+    {
+      "en": " explosion ",
+      "mt": " exolsh ",
+      "fact": null
+    },
+    {
+      "en": " wars ",
+      "mt": " di foshir ",
+      "fact": null
+    },
+    {
+      "en": " war ",
+      "mt": " foshir ",
+      "fact": null
+    },
+    {
+      "en": " friends ",
+      "mt": " di thodo ",
+      "fact": null
+    },
+    {
+      "en": " friend ",
+      "mt": " thodo ",
+      "fact": null
+    },
+    {
+      "en": " families ",
+      "mt": " di thelot ",
+      "fact": null
+    },
+    {
+      "en": " family ",
+      "mt": " thelot ",
+      "fact": null
+    },
+    {
+      "en": " your ",
+      "mt": " tuv ",
+      "fact": null
+    },
+    {
+      "en": " yourself ",
+      "mt": " ovis ",
+      "fact": null
+    },
+    {
+      "en": " them ",
+      "mt": " di tovopar ",
+      "fact": null
+    },
+    {
+      "en": " them ",
+      "mt": " tovopar ",
+      "fact": null
+    },
+    {
+      "en": " them ",
+      "mt": " di tovopar ",
+      "fact": null
+    },
+    {
+      "en": " her ",
+      "mt": " tovopar ",
+      "fact": null
+    },
+    {
+      "en": " them ",
+      "mt": " di tovopar ",
+      "fact": null
+    },
+    {
+      "en": " him ",
+      "mt": " tovopar ",
+      "fact": null
+    },
+    {
+      "en": " yoing ",
+      "mt": " bi tug ",
+      "fact": null
+    },
+    {
+      "en": " yous ",
+      "mt": " di tug ",
+      "fact": null
+    },
+    {
+      "en": " you'd ",
+      "mt": " jit tug ",
+      "fact": null
+    },
+    {
+      "en": " you ",
+      "mt": " tug ",
+      "fact": null
+    },
+    {
+      "en": " mine ",
+      "mt": " luv ",
+      "fact": null
+    },
+    {
+      "en": " my ",
+      "mt": " lug ",
+      "fact": null
+    },
+    {
+      "en": " I ",
+      "mt": " dou ",
+      "fact": null
+    },
+    {
+      "en": " hand ",
+      "mt": " bohod ",
+      "fact": null
+    },
+    {
+      "en": " Metroz ",
+      "mt": " Metrez ",
+      "fact": null
+    },
+    {
+      "en": " it ",
+      "mt": " dadoz ",
+      "fact": null
+    },
+    {
+      "en": " me ",
+      "mt": " dou ",
+      "fact": null
+    },
+    {
+      "en": " they ",
+      "mt": " doz ",
+      "fact": null
+    },
+    {
+      "en": " she ",
+      "mt": " doz ",
+      "fact": null
+    },
+    {
+      "en": " he ",
+      "mt": " doz ",
+      "fact": null
+    },
+    {
+      "en": " beginning ",
+      "mt": " begij ",
+      "fact": null
+    },
+    {
+      "en": " temperatures ",
+      "mt": " di tompar ",
+      "fact": null
+    },
+    {
+      "en": " temperature ",
+      "mt": " tompar ",
+      "fact": null
+    },
+    {
+      "en": " projects ",
+      "mt": " di porjuct ",
+      "fact": null
+    },
+    {
+      "en": " projected ",
+      "mt": " jit porjuct ",
+      "fact": null
+    },
+    {
+      "en": " projecting ",
+      "mt": " bi porjuct ",
+      "fact": null
+    },
+    {
+      "en": " project ",
+      "mt": " porjuct ",
+      "fact": null
+    },
+    {
+      "en": " helping ",
+      "mt": " bi hubli ",
+      "fact": null
+    },
+    {
+      "en": " helps ",
+      "mt": " di hubli ",
+      "fact": null
+    },
+    {
+      "en": " helped ",
+      "mt": " jit hubli ",
+      "fact": null
+    },
+    {
+      "en": " help ",
+      "mt": " hubli ",
+      "fact": null
+    },
+    {
+      "en": " commanding ",
+      "mt": " bi conduit ",
+      "fact": null
+    },
+    {
+      "en": " commands ",
+      "mt": " di conduit ",
+      "fact": null
+    },
+    {
+      "en": " command ",
+      "mt": " conduit ",
+      "fact": null
+    },
+    {
+      "en": " commanded ",
+      "mt": " jit conduit ",
+      "fact": null
+    },
+    {
+      "en": " rooms ",
+      "mt": " di oqeq ",
+      "fact": null
+    },
+    {
+      "en": " room ",
+      "mt": " oqeq ",
+      "fact": null
+    },
+    {
+      "en": " arrows ",
+      "mt": " di ponto ",
+      "fact": null
+    },
+    {
+      "en": " arrowed ",
+      "mt": " jit ponto ",
+      "fact": null
+    },
+    {
+      "en": " arrow ",
+      "mt": " ponto ",
+      "fact": null
+    },
+    {
+      "en": " calculators ",
+      "mt": " di cukal ",
+      "fact": null
+    },
+    {
+      "en": " button ",
+      "mt": " burd ",
+      "fact": null
+    },
+    {
+      "en": " buttons ",
+      "mt": " di burd ",
+      "fact": null
+    },
+    {
+      "en": " signaturing ",
+      "mt": " bi zidolu ",
+      "fact": null
+    },
+    {
+      "en": " signatures ",
+      "mt": " di zidolu ",
+      "fact": null
+    },
+    {
+      "en": " signatured ",
+      "mt": " jit zidolu ",
+      "fact": null
+    },
+    {
+      "en": " signature ",
+      "mt": " zidolu ",
+      "fact": null
+    },
+    {
+      "en": " calculator ",
+      "mt": " cukal ",
+      "fact": null
+    },
+    {
+      "en": " bottles ",
+      "mt": " di trivu ",
+      "fact": null
+    },
+    {
+      "en": " bottled ",
+      "mt": " jit trivu ",
+      "fact": null
+    },
+    {
+      "en": " bottle ",
+      "mt": " trivu ",
+      "fact": null
+    },
+    {
+      "en": " television ",
+      "mt": " sut ",
+      "fact": null
+    },
+    {
+      "en": " televisions ",
+      "mt": " di sut ",
+      "fact": null
+    },
+    {
+      "en": " vegetables ",
+      "mt": " di sur ",
+      "fact": null
+    },
+    {
+      "en": " fruits ",
+      "mt": " di sun ",
+      "fact": null
+    },
+    {
+      "en": " fruit ",
+      "mt": " sun ",
+      "fact": null
+    },
+    {
+      "en": " vegetable ",
+      "mt": " sur ",
+      "fact": null
+    },
+    {
+      "en": " candies ",
+      "mt": " di sul ",
+      "fact": null
+    },
+    {
+      "en": " hoodie ",
+      "mt": " foudabu ",
+      "fact": null
+    },
+    {
+      "en": " candy ",
+      "mt": " sul ",
+      "fact": null
+    },
+    {
+      "en": " junking ",
+      "mt": " bi suf ",
+      "fact": null
+    },
+    {
+      "en": " junks ",
+      "mt": " di suf ",
+      "fact": null
+    },
+    {
+      "en": " junked ",
+      "mt": " jit suf ",
+      "fact": null
+    },
+    {
+      "en": " junk ",
+      "mt": " suf ",
+      "fact": null
+    },
+    {
+      "en": " soda ",
+      "mt": " stimu ",
+      "fact": null
+    },
+    {
+      "en": " naming ",
+      "mt": " bi qeto ",
+      "fact": null
+    },
+    {
+      "en": " names ",
+      "mt": " di qeto ",
+      "fact": null
+    },
+    {
+      "en": " named ",
+      "mt": " jit qeto ",
+      "fact": null
+    },
+    {
+      "en": " name ",
+      "mt": " qeto ",
+      "fact": null
+    },
+    {
+      "en": " foods ",
+      "mt": " di ot ",
+      "fact": null
+    },
+    {
+      "en": " rewarding ",
+      "mt": " bi jobid ",
+      "fact": null
+    },
+    {
+      "en": " food ",
+      "mt": " ot ",
+      "fact": null
+    },
+    {
+      "en": " english ",
+      "mt": " enguli ",
+      "fact": null
+    },
+    {
+      "en": " rewarded ",
+      "mt": " jit jobid ",
+      "fact": null
+    },
+    {
+      "en": " gaming ",
+      "mt": " bi cos ",
+      "fact": null
+    },
+    {
+      "en": " games ",
+      "mt": " di cos ",
+      "fact": null
+    },
+    {
+      "en": " gamed ",
+      "mt": " jit cos ",
+      "fact": null
+    },
+    {
+      "en": " game ",
+      "mt": " cos ",
+      "fact": null
+    },
+    {
+      "en": " drinks ",
+      "mt": " di botar ",
+      "fact": null
+    },
+    {
+      "en": " drinking ",
+      "mt": " bi botar ",
+      "fact": null
+    },
+    {
+      "en": " drinked ",
+      "mt": " jit botar ",
+      "fact": null
+    },
+    {
+      "en": " drink ",
+      "mt": " botar ",
+      "fact": null
+    },
+    {
+      "en": " works ",
+      "mt": " di wak ",
+      "fact": null
+    },
+    {
+      "en": " working ",
+      "mt": " bi wak ",
+      "fact": null
+    },
+    {
+      "en": " worked ",
+      "mt": " jit wak ",
+      "fact": null
+    },
+    {
+      "en": " work ",
+      "mt": " wak ",
+      "fact": null
+    },
+    {
+      "en": " balances ",
+      "mt": " di baedolac ",
+      "fact": null
+    },
+    {
+      "en": " balancing ",
+      "mt": " bi baedolac ",
+      "fact": null
+    },
+    {
+      "en": " balanced ",
+      "mt": " jit baedolac ",
+      "fact": null
+    },
+    {
+      "en": " balance ",
+      "mt": " baedolac ",
+      "fact": null
+    },
+    {
+      "en": " deserving ",
+      "mt": " bi dovylu ",
+      "fact": null
+    },
+    {
+      "en": " deserves ",
+      "mt": " di dovylu ",
+      "fact": null
+    },
+    {
+      "en": " deserved ",
+      "mt": " jit dovylu ",
+      "fact": null
+    },
+    {
+      "en": " deserve ",
+      "mt": " dovylu ",
+      "fact": null
+    },
+    {
+      "en": " beeing ",
+      "mt": " puwet ",
+      "fact": null
+    },
+    {
+      "en": " bee'd ",
+      "mt": " jit puwet ",
+      "fact": null
+    },
+    {
+      "en": " counts ",
+      "mt": " di tyldn ",
+      "fact": null
+    },
+    {
+      "en": " counting ",
+      "mt": " bi tyldn ",
+      "fact": null
+    },
+    {
+      "en": " counted ",
+      "mt": " jit tyldn ",
+      "fact": null
+    },
+    {
+      "en": " count ",
+      "mt": " tyldn ",
+      "fact": null
+    },
+    {
+      "en": " helps ",
+      "mt": " di verhulbi ",
+      "fact": null
+    },
+    {
+      "en": " helped ",
+      "mt": " jit verhulbi ",
+      "fact": null
+    },
+    {
+      "en": " welcoming ",
+      "mt": " bi wushez ",
+      "fact": null
+    },
+    {
+      "en": " help ",
+      "mt": " verhulbi ",
+      "fact": null
+    },
+    {
+      "en": " welcomes ",
+      "mt": " di wushez ",
+      "fact": null
+    },
+    {
+      "en": " welcomed ",
+      "mt": " jit wushez ",
+      "fact": null
+    },
+    {
+      "en": " earning ",
+      "mt": " bi miishuv ",
+      "fact": null
+    },
+    {
+      "en": " welcome ",
+      "mt": " wushez ",
+      "fact": null
+    },
+    {
+      "en": " earned ",
+      "mt": " jit miishuv ",
+      "fact": null
+    },
+    {
+      "en": " earns ",
+      "mt": " di miishuv ",
+      "fact": null
+    },
+    {
+      "en": " hating ",
+      "mt": " bi docorn ",
+      "fact": null
+    },
+    {
+      "en": " earn ",
+      "mt": " miishuv ",
+      "fact": null
+    },
+    {
+      "en": " hated ",
+      "mt": " jit docorn ",
+      "fact": null
+    },
+    {
+      "en": " hates ",
+      "mt": " di docorn ",
+      "fact": null
+    },
+    {
+      "en": " hate ",
+      "mt": " docorn ",
+      "fact": null
+    },
+    {
+      "en": " dying ",
+      "mt": " bi sudonakii ",
+      "fact": null
+    },
+    {
+      "en": " died ",
+      "mt": " jit sudonakii ",
+      "fact": null
+    },
+    {
+      "en": " dies ",
+      "mt": " di sudonakii ",
+      "fact": null
+    },
+    {
+      "en": " die ",
+      "mt": " sudonakii ",
+      "fact": null
+    },
+    {
+      "en": " confusing ",
+      "mt": " bi mutyb ",
+      "fact": null
+    },
+    {
+      "en": " confuses ",
+      "mt": " di mutyb ",
+      "fact": null
+    },
+    {
+      "en": " confused ",
+      "mt": " jit mutyb ",
+      "fact": null
+    },
+    {
+      "en": " confuse ",
+      "mt": " mutyb ",
+      "fact": null
+    },
+    {
+      "en": " cleaning ",
+      "mt": " bi chij ",
+      "fact": null
+    },
+    {
+      "en": " cleans ",
+      "mt": " di chij ",
+      "fact": null
+    },
+    {
+      "en": " cleaned ",
+      "mt": " jit chij ",
+      "fact": null
+    },
+    {
+      "en": " clean ",
+      "mt": " chij ",
+      "fact": null
+    },
+    {
+      "en": " stopping ",
+      "mt": " bi slorda ",
+      "fact": null
+    },
+    {
+      "en": " stopped ",
+      "mt": " jit slorda ",
+      "fact": null
+    },
+    {
+      "en": " stop ",
+      "mt": " slorda ",
+      "fact": null
+    },
+    {
+      "en": " pressing ",
+      "mt": " bi pirodo ",
+      "fact": null
+    },
+    {
+      "en": " pressed ",
+      "mt": " jit pirodo ",
+      "fact": null
+    },
+    {
+      "en": " stops ",
+      "mt": " di slorda ",
+      "fact": null
+    },
+    {
+      "en": " press ",
+      "mt": " pirodo ",
+      "fact": null
+    },
+    {
+      "en": " calculates ",
+      "mt": " di cartib ",
+      "fact": null
+    },
+    {
+      "en": " calculating ",
+      "mt": " bi cartib ",
+      "fact": null
+    },
+    {
+      "en": " sleeps ",
+      "mt": " di liyar  ",
+      "fact": null
+    },
+    {
+      "en": " sleeping ",
+      "mt": " bi liyar  ",
+      "fact": null
+    },
+    {
+      "en": " sleep ",
+      "mt": " liyar  ",
+      "fact": null
+    },
+    {
+      "en": " calculate ",
+      "mt": " cartib ",
+      "fact": null
+    },
+    {
+      "en": " slept ",
+      "mt": " jit liyar  ",
+      "fact": null
+    },
+    {
+      "en": " calculated ",
+      "mt": " jit cartib ",
+      "fact": null
+    },
+    {
+      "en": " putting ",
+      "mt": " bi sufyr ",
+      "fact": null
+    },
+    {
+      "en": " put ",
+      "mt": " sufyr ",
+      "fact": null
+    },
+    {
+      "en": " moving ",
+      "mt": " bi fyraw ",
+      "fact": null
+    },
+    {
+      "en": " moves ",
+      "mt": " di fyraw ",
+      "fact": null
+    },
+    {
+      "en": " puts ",
+      "mt": " di sufyr ",
+      "fact": null
+    },
+    {
+      "en": " moved ",
+      "mt": " jit fyraw ",
+      "fact": null
+    },
+    {
+      "en": " move ",
+      "mt": " fyraw ",
+      "fact": null
+    },
+    {
+      "en": " knowing ",
+      "mt": " bi yief ",
+      "fact": null
+    },
+    {
+      "en": " knows ",
+      "mt": " di yief ",
+      "fact": null
+    },
+    {
+      "en": " known ",
+      "mt": " jit yief ",
+      "fact": null
+    },
+    {
+      "en": " know ",
+      "mt": " yief ",
+      "fact": null
+    },
+    {
+      "en": " reward ",
+      "mt": " jobid ",
+      "fact": null
+    },
+    {
+      "en": " means ",
+      "mt": " di tujel ",
+      "fact": null
+    },
+    {
+      "en": " meaned ",
+      "mt": " jit tujel ",
+      "fact": null
+    },
+    {
+      "en": " meaning ",
+      "mt": " bi tujel ",
+      "fact": null
+    },
+    {
+      "en": " gets ",
+      "mt": " di tou ",
+      "fact": null
+    },
+    {
+      "en": " getting ",
+      "mt": " bi tou ",
+      "fact": null
+    },
+    {
+      "en": " got ",
+      "mt": " jit tou ",
+      "fact": null
+    },
+    {
+      "en": " waiting ",
+      "mt": " bi tiyo ",
+      "fact": null
+    },
+    {
+      "en": " hold on ",
+      "mt": " tiyo ",
+      "fact": null
+    },
+    {
+      "en": " get ",
+      "mt": " tou ",
+      "fact": null
+    },
+    {
+      "en": " mean ",
+      "mt": " tujel ",
+      "fact": null
+    },
+    {
+      "en": " waits ",
+      "mt": " di tiyo ",
+      "fact": null
+    },
+    {
+      "en": " wait ",
+      "mt": " tiyo ",
+      "fact": null
+    },
+    {
+      "en": " waited ",
+      "mt": " jit tiyo ",
+      "fact": null
+    },
+    {
+      "en": " giving ",
+      "mt": " bi tiviw ",
+      "fact": null
+    },
+    {
+      "en": " gived ",
+      "mt": " jit tiviw ",
+      "fact": null
+    },
+    {
+      "en": " gives ",
+      "mt": " di tiviw ",
+      "fact": null
+    },
+    {
+      "en": " give ",
+      "mt": " tiviw ",
+      "fact": null
+    },
+    {
+      "en": " wearing ",
+      "mt": " bi tikuz ",
+      "fact": null
+    },
+    {
+      "en": " wears ",
+      "mt": " di tikuz ",
+      "fact": null
+    },
+    {
+      "en": " weared ",
+      "mt": " jit tikuz ",
+      "fact": null
+    },
+    {
+      "en": " remembering ",
+      "mt": " bi seshov ",
+      "fact": null
+    },
+    {
+      "en": " remembers ",
+      "mt": " di seshov ",
+      "fact": null
+    },
+    {
+      "en": " wear ",
+      "mt": " tikuz ",
+      "fact": null
+    },
+    {
+      "en": " remembered ",
+      "mt": " jit seshov ",
+      "fact": null
+    },
+    {
+      "en": " refusing ",
+      "mt": " bi rufus ",
+      "fact": null
+    },
+    {
+      "en": " remember ",
+      "mt": " seshov ",
+      "fact": null
+    },
+    {
+      "en": " refuses ",
+      "mt": " di rufus ",
+      "fact": null
+    },
+    {
+      "en": " signing ",
+      "mt": " bi putui ",
+      "fact": null
+    },
+    {
+      "en": " refuse ",
+      "mt": " rufus ",
+      "fact": null
+    },
+    {
+      "en": " refused ",
+      "mt": " jit rufus ",
+      "fact": null
+    },
+    {
+      "en": " signs ",
+      "mt": " di putui ",
+      "fact": null
+    },
+    {
+      "en": " sign ",
+      "mt": " putui ",
+      "fact": null
+    },
+    {
+      "en": " warning ",
+      "mt": " bi potse ",
+      "fact": null
+    },
+    {
+      "en": " signed ",
+      "mt": " jit putui ",
+      "fact": null
+    },
+    {
+      "en": " warns ",
+      "mt": " di potse ",
+      "fact": null
+    },
+    {
+      "en": " warn ",
+      "mt": " potse ",
+      "fact": null
+    },
+    {
+      "en": " warned ",
+      "mt": " jit potse ",
+      "fact": null
+    },
+    {
+      "en": " forgetting ",
+      "mt": " bi porvit ",
+      "fact": null
+    },
+    {
+      "en": " forget ",
+      "mt": " porvit ",
+      "fact": null
+    },
+    {
+      "en": " forgot ",
+      "mt": " jit porvit ",
+      "fact": null
+    },
+    {
+      "en": " forgets ",
+      "mt": " di porvit ",
+      "fact": null
+    },
+    {
+      "en": " can't ",
+      "mt": " pernol'rt ",
+      "fact": null
+    },
+    {
+      "en": " subtracts ",
+      "mt": " di nevis ",
+      "fact": null
+    },
+    {
+      "en": " can ",
+      "mt": " pernol ",
+      "fact": null
+    },
+    {
+      "en": " subtracting ",
+      "mt": " bi nevis ",
+      "fact": null
+    },
+    {
+      "en": " subtracted ",
+      "mt": " jit nevis ",
+      "fact": null
+    },
+    {
+      "en": " making ",
+      "mt": " bi kaydu ",
+      "fact": null
+    },
+    {
+      "en": " subtract ",
+      "mt": " nevis ",
+      "fact": null
+    },
+    {
+      "en": " makes ",
+      "mt": " di kaydu ",
+      "fact": null
+    },
+    {
+      "en": " naming ",
+      "mt": " bi juteri ",
+      "fact": null
+    },
+    {
+      "en": " made ",
+      "mt": " jit kaydu ",
+      "fact": null
+    },
+    {
+      "en": " make ",
+      "mt": " kaydu ",
+      "fact": null
+    },
+    {
+      "en": " names ",
+      "mt": " di juteri ",
+      "fact": null
+    },
+    {
+      "en": " named ",
+      "mt": " jit juteri ",
+      "fact": null
+    },
+    {
+      "en": " name ",
+      "mt": " juteri ",
+      "fact": null
+    },
+    {
+      "en": " reading ",
+      "mt": " bi jihol ",
+      "fact": null
+    },
+    {
+      "en": " acknowledging ",
+      "mt": " bi hedonubal ",
+      "fact": null
+    },
+    {
+      "en": " read ",
+      "mt": " jihol ",
+      "fact": null
+    },
+    {
+      "en": " acknowledges ",
+      "mt": " di hedonubal ",
+      "fact": null
+    },
+    {
+      "en": " acknowledged ",
+      "mt": " jit hedonubal ",
+      "fact": null
+    },
+    {
+      "en": " acknowledge ",
+      "mt": " hedonubal ",
+      "fact": null
+    },
+    {
+      "en": " have ",
+      "mt": " mogoye ",
+      "fact": null
+    },
+    {
+      "en": " have ",
+      "mt": " poduyt ",
+      "fact": null
+    },
+    {
+      "en": " owns ",
+      "mt": " di goye ",
+      "fact": null
+    },
+    {
+      "en": " owning ",
+      "mt": " bi goye ",
+      "fact": null
+    },
+    {
+      "en": " owned ",
+      "mt": " jit goye ",
+      "fact": null
+    },
+    {
+      "en": " own ",
+      "mt": " goye ",
+      "fact": null
+    },
+    {
+      "en": " has ",
+      "mt": " di goye ",
+      "fact": null
+    },
+    {
+      "en": " having ",
+      "mt": " bi goye ",
+      "fact": null
+    },
+    {
+      "en": " rewards ",
+      "mt": " di jobid ",
+      "fact": null
+    },
+    {
+      "en": " had ",
+      "mt": " jit goye ",
+      "fact": null
+    },
+    {
+      "en": " have ",
+      "mt": " goye ",
+      "fact": null
+    },
+    {
+      "en": " crying ",
+      "mt": " bi fozeka ",
+      "fact": null
+    },
+    {
+      "en": " cries ",
+      "mt": " di fozeka ",
+      "fact": null
+    },
+    {
+      "en": " cried ",
+      "mt": " jit fozeka ",
+      "fact": null
+    },
+    {
+      "en": " cry ",
+      "mt": " fozeka ",
+      "fact": null
+    },
+    {
+      "en": " grabbing ",
+      "mt": " bi fou ",
+      "fact": null
+    },
+    {
+      "en": " grabs ",
+      "mt": " di fou ",
+      "fact": null
+    },
+    {
+      "en": " grabbed ",
+      "mt": " jit fou ",
+      "fact": null
+    },
+    {
+      "en": " grab ",
+      "mt": " fou ",
+      "fact": null
+    },
+    {
+      "en": " following ",
+      "mt": " bi flowo ",
+      "fact": null
+    },
+    {
+      "en": " follows ",
+      "mt": " di flowo ",
+      "fact": null
+    },
+    {
+      "en": " followed ",
+      "mt": " jit flowo ",
+      "fact": null
+    },
+    {
+      "en": " follow ",
+      "mt": " flowo ",
+      "fact": null
+    },
+    {
+      "en": " acting ",
+      "mt": " bi fliwi ",
+      "fact": null
+    },
+    {
+      "en": " acts ",
+      "mt": " di fliwi ",
+      "fact": null
+    },
+    {
+      "en": " acted ",
+      "mt": " jit fliwi ",
+      "fact": null
+    },
+    {
+      "en": " act ",
+      "mt": " fliwi ",
+      "fact": null
+    },
+    {
+      "en": " talking ",
+      "mt": " bi figev ",
+      "fact": null
+    },
+    {
+      "en": " talks ",
+      "mt": " di figev ",
+      "fact": null
+    },
+    {
+      "en": " talked ",
+      "mt": " jit figev ",
+      "fact": null
+    },
+    {
+      "en": " talk ",
+      "mt": " figev ",
+      "fact": null
+    },
+    {
+      "en": " say ",
+      "mt": " figev ",
+      "fact": null
+    },
+    {
+      "en": " add ",
+      "mt": " devis ",
+      "fact": null
+    },
+    {
+      "en": " speak ",
+      "mt": " figev ",
+      "fact": null
+    },
+    {
+      "en": " write ",
+      "mt": " doc ",
+      "fact": null
+    },
+    {
+      "en": " hope ",
+      "mt": " debol ",
+      "fact": null
+    },
+    {
+      "en": " wish ",
+      "mt": " debol ",
+      "fact": null
+    },
+    {
+      "en": " see ",
+      "mt": " cofa ",
+      "fact": null
+    },
+    {
+      "en": " sting ",
+      "mt": " ciway ",
+      "fact": null
+    },
+    {
+      "en": " change ",
+      "mt": " chichi ",
+      "fact": null
+    },
+    {
+      "en": " spell ",
+      "mt": " chavi ",
+      "fact": null
+    },
+    {
+      "en": " going ",
+      "mt": " bui ",
+      "fact": null
+    },
+    {
+      "en": " think ",
+      "mt": " brina ",
+      "fact": null
+    },
+    {
+      "en": " tell ",
+      "mt": " brihi ",
+      "fact": null
+    },
+    {
+      "en": " going to ",
+      "mt": " bo ",
+      "fact": null
+    },
+    {
+      "en": " drink ",
+      "mt": " beltar ",
+      "fact": null
+    },
+    {
+      "en": " does not ",
+      "mt": " bur api’rt ",
+      "fact": null
+    },
+    {
+      "en": " does ",
+      "mt": " bur api ",
+      "fact": null
+    },
+    {
+      "en": " did not ",
+      "mt": " jit api’rt ",
+      "fact": null
+    },
+    {
+      "en": " did ",
+      "mt": " jit api ",
+      "fact": null
+    },
+    {
+      "en": " do not ",
+      "mt": " api‘rt ",
+      "fact": null
+    },
+    {
+      "en": " do ",
+      "mt": " api ",
+      "fact": null
+    },
+    {
+      "en": " play ",
+      "mt": " ada ",
+      "fact": null
+    },
+    {
+      "en": " hi ",
+      "mt": " ac ",
+      "fact": null
+    },
+    {
+      "en": " hello ",
+      "mt": " ac ",
+      "fact": null
+    },
+    {
+      "en": " yo ",
+      "mt": " ac ",
+      "fact": null
+    },
+    {
+      "en": " salutations ",
+      "mt": " ac ",
+      "fact": null
+    },
+    {
+      "en": " greetings ",
+      "mt": " ac ",
+      "fact": null
+    }
+  ]
+}
+
+
